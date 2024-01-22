@@ -24,7 +24,7 @@ Then To validate the Login page title "Queue Codes | Log in"
 And To close the browser
   
  Examples:     
-                |   testname        |     userName       | userPassword|
+                                              |   testname        |     userName       | userPassword|
 					      |Both are empty     |                    |             |    
 					      |userName is empty  |                    |   123456    |    
 					      |password is empty  |queuecodes@gmail.com|             |    
